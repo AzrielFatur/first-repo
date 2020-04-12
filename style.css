@@ -1,0 +1,65 @@
+body {
+    background-color: #6C5DBD !important;
+    font-family: 'Reen Kufi', sans-serif;
+    margin: auto;
+}
+
+.btn-primary {
+    font-family: 'Reem Kufi', sans-serif;
+    background-color: #6C5DBD !important;
+    border-color: #6C5DBD !important;
+    color: #ffffff !important;
+}
+
+.alert-primary {
+    background-color: #c9bfff !important;
+    border-color: #c9bfff !important;
+    color: #6C5DBD !important;
+}
+
+.alert-primary a {
+    color: #6C5DBD;
+}
+
+.centered {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    width: 500px !important;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 50px 30px;
+    border-radius: 5px;
+}
+
+i {
+    font-size: 52px;
+    color: #6C5DBD !important;
+    padding-bottom: 30px;
+}
+
+h2 {
+    font-family: 'Reem Kufi', sans-serif;
+}
+
+.form-group {
+    font-family: 'Reem Kufi', sans-serif;
+}
+
+.link {
+    font-family: 'Reem Kufi', sans-serif;
+    margin-top: 50px;
+}
+
+.link a {
+    color: #6C5DBD !important;
+}
+
+@media (max-width: 575.98px) {
+    .centered {
+        width: 80% !important;
+    }
+}
